@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
 
-  groceries[:dairy].values_at.concat([:vegetable]).concat([:vegetable]).concat([:meat]).concat([:grains])
+  groceries[:dairy.values].concat([:vegetable.values]).concat([:vegetable.values]).concat([:meat.values]).concat([:grains.values])
 
 end
