@@ -15,7 +15,6 @@ def first_challenge
 
   #your code here
     contacts["Freddy Mercury"][:favorite_icecream_flavors].delete_if {|i| i== "strawberry"}
-    end
   
   contacts
   
